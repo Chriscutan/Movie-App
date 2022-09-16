@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+}
+
+.d-none{
+    display: none;
+}
+
+.loading{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.movie-container{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin: 10px auto;
+}
